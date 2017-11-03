@@ -54,7 +54,6 @@
    resetGame();
   }
 
-
   else {
    guessesLeft--;
   }
@@ -66,7 +65,6 @@
    "<p>Losses: " + losses + "</p>" +
    "<p>Guesses Left: " + guessesLeft + "<p>" +
    "<p>Guesses So Far: " + guessesSoFar + "</p>";
-
 
   document.querySelector('#game').innerHTML = html;
  };

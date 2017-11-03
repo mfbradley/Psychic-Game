@@ -5,18 +5,4 @@ body {
 .jumbotron {
     margin-top: 100px;
     text-align: center;
-
-}
-
-@keyframes example {
-    from {
-        background-color: red;
-    }
-    to {
-        background-color: yellow;
-    }
-}
-
-alert {
-    background-image: url("https://hmsies.files.wordpress.com/2015/08/fortune-tellers-give-psychics-and-mediums-a-bad-name-21576131_0.jpg?w=547");
 }
